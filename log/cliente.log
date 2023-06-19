@@ -1,0 +1,12 @@
+2023-06-18 19:44:08,642 | DEBUG:GRABANDO... | MainThread | <module> | 80|
+2023-06-18 19:44:08,642 | DEBUG:Grabando audio... | MainThread | record_audio | 55|
+2023-06-18 19:44:15,814 | DEBUG:Audio terminado... | MainThread | record_audio | 61|
+2023-06-18 19:44:15,834 | DEBUG:Audio grabado y guardado en 'C:/Users/jalex/Documents/ESCOM IPN/ESCOM 7TH SEM/SISTEMAS DISTRIBUIDOS/P8-AZURE\txt.wav'. | MainThread | record_audio | 71|
+2023-06-18 19:44:15,834 | DEBUG:GRABADO... | MainThread | <module> | 82|
+2023-06-18 19:44:15,859 | DEBUG:EJECUTOR INICIADO... | MainThread | <module> | 85|
+2023-06-18 19:44:15,859 | DEBUG:EJECUTANDO VM... | MainThread | <module> | 87|
+2023-06-18 19:44:15,859 | DEBUG:Conectando con VM... | ThreadPoolExecutor-0_0 | vm | 33|
+2023-06-18 19:44:15,860 | DEBUG:Conectado con VM... | ThreadPoolExecutor-0_0 | vm | 36|
+2023-06-18 19:44:15,860 | DEBUG:VM EJECUTADA... | MainThread | <module> | 89|
+2023-06-18 19:44:17,545 | DEBUG:Respuesta terminada...  | ThreadPoolExecutor-0_0 | vm | 40|
+2023-06-18 19:44:17,546 | DEBUG:RESULTADO IMPRESO... | MainThread | <module> | 102|
